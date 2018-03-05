@@ -1,2 +1,2 @@
 # Game__Planet_war
-using PtQt5
+using Python 3.6 and PtQt5
