@@ -1,0 +1,23 @@
+22
+300 100 35 blue True 20
+100 300 35 black False 0
+200 500 35 black False 0
+100 700 35 black False 0
+300 900 35 black False 0
+500 300 35 black False 0
+500 700 35 black False 0
+750 200 35 black False 0
+750 800 35 black False 0
+900 400 35 black False 0
+900 600 35 black False 0
+1050 200 35 black False 0
+1050 800 35 black False 0
+1300 300 35 black False 0
+1300 700 35 black False 0
+1500 100 35 red True 20
+1700 300 35 black False 0
+1600 500 35 black False 0
+1700 700 35 black False 0
+1500 900 35 black False 0
+700 500 35 black False 0
+1100 500 35 black False 0
